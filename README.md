@@ -92,3 +92,4 @@ The **code** in this repository is licensed under the MIT license. Feel free to 
 ## Errar handaling
 
 Run: npm audit fix --force:
+# Certificate-Generator
