@@ -20,36 +20,47 @@
 ## Setup Steps
 
 #### Using Docker
+
 - Make sure you have docker and docker-compose installed
+
 ```
 $ docker-compose up
 ```
 
 #### Manually
+
 - Go to directory
+
 ```
 $ cd certificate-generator
 ```
+
 - Install Dependencies
+
 ```
 $ npm install
 ```
+
 - Start LocalHost Server
+
 ```
 $ npm run start
+
+or
+
+$ npm start
 ```
 
 ## Tech Stack Used
-  - Javascript
-  - React
-  - Firebase
-  - Material UI
+
+- Javascript
+- React
+- Firebase
+- Material UI
 
 # [Code of Conduct](CODE_OF_CONDUCT.md)
 
-
 # [Getting Started](CONTRIBUTING.md)
-
 
 <h2 id="contribute">Contributing</h2>
 <p>
@@ -73,8 +84,11 @@ The **code** in this repository is licensed under the MIT license. Feel free to 
   <img src="https://contrib.rocks/image?repo=vedant-jain03/certificate-generator"/>
 </a>
 
-
 <div align="center">
  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love" />
  <img src="https://forthebadge.com/images/badges/thats-how-they-get-you.svg" alt="how">
 </div>
+
+## Errar handaling
+
+Run: npm audit fix --force:
