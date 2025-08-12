@@ -1172,10 +1172,10 @@ function Homepage() {
           <button className="info" onClick={() => setpop(true)}>
             i
           </button>
-          <a href="https://github.com/NikhilKhare973/Certificate-Generator">
+          <a href="https://github.com/NikhilKhare973/Certificate-Generator" target="_blank">
             Contribute <ArrowUpwardIcon />{" "}
           </a>
-          <a href="https://github.com/NikhilKhare973/Certificate-Generator">
+          <a href="https://github.com/NikhilKhare973/Certificate-Generator" target="_blank">
             Give us <StarOutlineIcon />{" "}
           </a>
         </div>
